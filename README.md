@@ -80,4 +80,4 @@ Random Forest performs the best overall.
 
 ## Contributing
 
-This is a thesis project. For contributions or questions, please contact the author.
+This is a part of a thesis project. For contributions or questions, please contact the author.
